@@ -1,0 +1,1 @@
+python L-systems_merged.py fractals/sutty.txt 960 1020 120 0.51
